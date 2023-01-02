@@ -1,19 +1,3 @@
-name: "libsqlite3-sys"
-description: "Native bindings to the libsqlite3 library"
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/libsqlite3-sys"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/libsqlite3-sys/libsqlite3-sys-0.20.1.crate"
-  }
-  version: "0.20.1"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 10
-    day: 26
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e14de79b5582aa7cfa7f3c2b7f421aab1fe6487302366a7e5f6a0ffc9b46021
+size 408

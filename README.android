@@ -1,8 +1,3 @@
-This package is imported to Android and uses Android's external/sqlite
-header files and compilation flags to generate bindings.
-
-If features are changed for the libsqlite3-sys crate, please ensure those
-features are changed in the sqlite_bindgen_build module.
-
-If you update libsqlite3-sys, check its build.rs against the one at
-android/build.rs to ensure it is updated if needed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:174d99a72f7065a1f558cbe53d05d707bc6f6333ad971b0777a5c953c248a606
+size 381
